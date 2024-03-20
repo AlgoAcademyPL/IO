@@ -1,9 +1,9 @@
 ---
-title: Title!
+title: Title! To jest Olimpiada informatyczna
 keywords: Seo slowa kluczowe
 ---
 
-# h1 Heading 8-)
+# Olimpiada informatyczna
 
 text text text texttext text text texttext text text texttext text text text
 text text text texttext text text texttext text text texttext text text text
